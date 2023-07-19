@@ -1,6 +1,7 @@
 # PDSA
 ***
 ## Quiz-2 and End-Term-Exam carries great weightage
+## 6th August and 3rd September
 ***
 ### Less focus on oppe
 ### PDSA OPPE UPCOMING ON 27th AUGUST
