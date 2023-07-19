@@ -3,6 +3,7 @@
 ## Quiz-2 and End-Term-Exam carries great weightage
 ***
 ### Less focus on oppe
+### PDSA OPPE UPCOMING ON 27th AUGUST
 ### 📌Today’s(24th July) PDSA OPPE questions :
 
 1. Linked list - Create a method delete(pos), where we can delete the value at particular position.
