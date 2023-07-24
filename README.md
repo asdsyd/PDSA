@@ -51,7 +51,8 @@ topological sort, data structures (stack,queue,array,linked list etc.) bfs, dfs,
 ***
 ## Sorting algorithms
 ## 1. Selection Sort
-`def selection_sort(arr):
+`
+def selection_sort(arr):
     size = len(arr)
     for i in range(size-1):
         min_index = i
@@ -60,4 +61,5 @@ topological sort, data structures (stack,queue,array,linked list etc.) bfs, dfs,
                 min_index = j
         if i != min_index:
             arr[i], arr[min_index] = arr[min_index], arr[i]
+            
 `
